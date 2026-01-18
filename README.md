@@ -17,7 +17,7 @@ UC Berkeley
 
 ## Offerings
 
-1. [Fall 2024](fall-2024)
+1. [Spring 2026](Spring-2026)
 
 
 
@@ -31,5 +31,5 @@ Population and variables. Standard measures of location, spread and association.
 Three hours of lecture and two hours of laboratory per week. Five hours of lecture and four hours of laboratory per week for 8 weeks. Seven and one-half hours of lecture and five hours of laboratory per week for 6 weeks. 
 
 ## Prerequisites
-
+None
 
